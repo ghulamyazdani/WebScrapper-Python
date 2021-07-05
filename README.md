@@ -2,13 +2,11 @@
 
 You first have to import two libraries
 
-`import requests<br>
-import bs4`
+`import requests` and  `import bs`
 
 If you haven't installed these libraries earlier you can add by using-pip
 
-`pip3 install requests
-pip3 install bs4`
+`pip3 install requests` and `pip3 install bs4`
 
 After that 
 
